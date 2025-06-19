@@ -1,9 +1,9 @@
 # Smart Locker
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/codassassin/SmartLocker)
-![GitHub last commit](https://img.shields.io/github/last-commit/codassassin/SmartLocker)
-![GitHub stars](https://img.shields.io/github/stars/codassassin/SmartLocker?style=social)
-![GitHub license](https://img.shields.io/github/license/codassassin/SmartLocker)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/codassassin/smart-locker-release)
+![GitHub last commit](https://img.shields.io/github/last-commit/codassassin/smart-locker-release)
+![GitHub stars](https://img.shields.io/github/stars/codassassin/smart-locker-release?style=social)
+![GitHub license](https://img.shields.io/github/license/codassassin/smart-locker-release)
 
 **Smart Locker** is a secure Windows folder locker application that supports fingerprint authentication with a fallback password mechanism. It's designed for users who want a privacy-first, local-only solution for sensitive folders.
 
